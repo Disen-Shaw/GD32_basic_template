@@ -1,1 +1,14 @@
-Project/
+
+
+*.map
+*.lst
+
+*.crf
+*.d
+*.o
+
+*.htm
+*.sct
+*.dep
+
+
